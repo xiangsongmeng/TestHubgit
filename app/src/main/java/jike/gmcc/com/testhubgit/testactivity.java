@@ -9,6 +9,6 @@ public class testactivity {
   int c=8;
   int n=9;
   int dd=0;
-  
+  int ccc=0;
   int dddddd=0;
 }
