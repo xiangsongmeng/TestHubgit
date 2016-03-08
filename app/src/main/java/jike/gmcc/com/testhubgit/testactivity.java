@@ -5,4 +5,5 @@ package jike.gmcc.com.testhubgit;
  */
 public class testactivity {
   int b=0;
+  int d=5;
 }
